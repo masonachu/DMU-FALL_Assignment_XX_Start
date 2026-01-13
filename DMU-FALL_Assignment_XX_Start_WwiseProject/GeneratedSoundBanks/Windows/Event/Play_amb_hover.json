@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C4D612B3-BA82-43C9-85C7-BE42E2FB2C6A}",
     "Language": "SFX",
-    "Hash": "{6D05012D-EFAC-E147-D607-08CCC0D5D165}",
+    "Hash": "{B93C13B9-AD3C-A4F5-5673-792D393253CE}",
     "ObjectPath": "Play_amb_hover",
     "ShortName": "Play_amb_hover",
     "Path": "Event/Play_amb_hover.bnk",
@@ -49,6 +49,7 @@
       "Name": "Play_amb_hover",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_amb_hover",
       "GUID": "{C4D612B3-BA82-43C9-85C7-BE42E2FB2C6A}",
+      "MaxAttenuation": "7",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -65,6 +66,6 @@
     ]
    }
   ],
-  "FileHash": "{0E7BFB72-C0B8-0F89-5D39-52D2EF5D6387}"
+  "FileHash": "{B4BA68C2-996B-49A6-D092-BCA0DEEB1FF7}"
  }
 }

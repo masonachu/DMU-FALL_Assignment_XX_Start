@@ -8,7 +8,7 @@
 						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-96</Value>
+								<Value>-13</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -182,6 +182,11 @@
 						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
 						<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-9</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -211,14 +216,14 @@
 															<SegmentShape>Log1</SegmentShape>
 														</Point>
 														<Point>
-															<XPos>4.4071</XPos>
-															<YPos>-200</YPos>
+															<XPos>4.71057</XPos>
+															<YPos>-26.13824</YPos>
 															<Flags>0</Flags>
 															<SegmentShape>Exp1</SegmentShape>
 														</Point>
 														<Point>
 															<XPos>7</XPos>
-															<YPos>-200</YPos>
+															<YPos>-26.9661</YPos>
 															<Flags>37</Flags>
 														</Point>
 													</PointList>

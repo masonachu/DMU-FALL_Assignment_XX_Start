@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C259B94F-52B6-4BBB-AF22-875104BC682D}",
     "Language": "SFX",
-    "Hash": "{90AC79C9-60D0-8FA5-EC7B-11CEBFEEBE01}",
+    "Hash": "{04C7CE1D-09FA-12CF-8288-332D2A217695}",
     "ObjectPath": "Play_mus_CyberCity_4_4_134bpm_lp",
     "ShortName": "Play_mus_CyberCity_4_4_134bpm_lp",
     "Path": "Event/Play_mus_CyberCity_4_4_134bpm_lp.bnk",
@@ -41,6 +41,6 @@
     ]
    }
   ],
-  "FileHash": "{92325D2E-643F-91C1-A5EC-BBF688486699}"
+  "FileHash": "{73510371-4833-580F-8B1E-615C869312AC}"
  }
 }
