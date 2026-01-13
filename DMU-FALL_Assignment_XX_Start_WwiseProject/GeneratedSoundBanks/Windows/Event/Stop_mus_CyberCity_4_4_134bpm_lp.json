@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3631370273",
+    "Type": "Event",
+    "GUID": "{9726C731-36A0-471C-981B-4D096DAA7D42}",
+    "Language": "SFX",
+    "Hash": "{A51AD0DA-4C26-3567-C57E-ED932E53BE95}",
+    "ObjectPath": "Stop_mus_CyberCity_4_4_134bpm_lp",
+    "ShortName": "Stop_mus_CyberCity_4_4_134bpm_lp",
+    "Path": "Event/Stop_mus_CyberCity_4_4_134bpm_lp.bnk",
+    "Events": [
+     {
+      "Id": "3631370273",
+      "Name": "Stop_mus_CyberCity_4_4_134bpm_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_mus_CyberCity_4_4_134bpm_lp",
+      "GUID": "{9726C731-36A0-471C-981B-4D096DAA7D42}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{90D1B724-02C6-8A66-202F-A81BF8B25DB6}"
+ }
+}

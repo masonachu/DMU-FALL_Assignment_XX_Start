@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1704328946	Play_sfx_pickup			\Default Work Unit\Play_sfx_pickup	
+

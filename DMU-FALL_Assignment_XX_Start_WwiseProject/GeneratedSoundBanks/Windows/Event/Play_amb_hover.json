@@ -1,0 +1,70 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3007525169",
+    "Type": "Event",
+    "GUID": "{C4D612B3-BA82-43C9-85C7-BE42E2FB2C6A}",
+    "Language": "SFX",
+    "Hash": "{6D05012D-EFAC-E147-D607-08CCC0D5D165}",
+    "ObjectPath": "Play_amb_hover",
+    "ShortName": "Play_amb_hover",
+    "Path": "Event/Play_amb_hover.bnk",
+    "Media": [
+     {
+      "Id": "429309669",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MAGShim_Elemental Heal-CastLoop 01_AKB00M_Magic.wav",
+      "Path": "Media/429309669.wem",
+      "CachePath": "B8/{B800B1C5-61B6-FAB1-CAD3-FF9EE0C5FE58}.wem"
+     },
+     {
+      "Id": "629164356",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MAGShim_Elemental Heal-CastLoop 02_AKB00M_Magic.wav",
+      "Path": "Media/629164356.wem",
+      "CachePath": "2D/{2D3C1513-F07D-8DE3-C379-FE5D4B94E7A0}.wem"
+     },
+     {
+      "Id": "1056395993",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MAGShim_Elemental Heal-CastLoop 03_AKB00M_Magic.wav",
+      "Path": "Media/1056395993.wem",
+      "CachePath": "A7/{A7494BC3-F75D-EDC6-BB15-7C275E43265A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3007525169",
+      "Name": "Play_amb_hover",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_amb_hover",
+      "GUID": "{C4D612B3-BA82-43C9-85C7-BE42E2FB2C6A}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "429309669"
+       },
+       {
+        "Id": "629164356"
+       },
+       {
+        "Id": "1056395993"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0E7BFB72-C0B8-0F89-5D39-52D2EF5D6387}"
+ }
+}

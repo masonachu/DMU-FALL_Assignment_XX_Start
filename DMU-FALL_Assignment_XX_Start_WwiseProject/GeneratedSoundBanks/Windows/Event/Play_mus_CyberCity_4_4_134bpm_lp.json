@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1566377215",
+    "Type": "Event",
+    "GUID": "{C259B94F-52B6-4BBB-AF22-875104BC682D}",
+    "Language": "SFX",
+    "Hash": "{90AC79C9-60D0-8FA5-EC7B-11CEBFEEBE01}",
+    "ObjectPath": "Play_mus_CyberCity_4_4_134bpm_lp",
+    "ShortName": "Play_mus_CyberCity_4_4_134bpm_lp",
+    "Path": "Event/Play_mus_CyberCity_4_4_134bpm_lp.bnk",
+    "Media": [
+     {
+      "Id": "550236306",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "mus_CyberCity_4-4_134bpm_lp.wav",
+      "Path": "Media/550236306.wem",
+      "CachePath": "65/{659056D8-FB85-C942-8276-F7DAFEA3C9DF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1566377215",
+      "Name": "Play_mus_CyberCity_4_4_134bpm_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_mus_CyberCity_4_4_134bpm_lp",
+      "GUID": "{C259B94F-52B6-4BBB-AF22-875104BC682D}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "550236306"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{92325D2E-643F-91C1-A5EC-BBF688486699}"
+ }
+}

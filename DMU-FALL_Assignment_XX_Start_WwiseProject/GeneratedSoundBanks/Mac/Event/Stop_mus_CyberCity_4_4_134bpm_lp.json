@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3631370273",
+    "Type": "Event",
+    "GUID": "{9726C731-36A0-471C-981B-4D096DAA7D42}",
+    "Language": "SFX",
+    "Hash": "{A51AD0DA-4C26-3567-C57E-ED932E53BE95}",
+    "ObjectPath": "Stop_mus_CyberCity_4_4_134bpm_lp",
+    "ShortName": "Stop_mus_CyberCity_4_4_134bpm_lp",
+    "Path": "Event/Stop_mus_CyberCity_4_4_134bpm_lp.bnk",
+    "Events": [
+     {
+      "Id": "3631370273",
+      "Name": "Stop_mus_CyberCity_4_4_134bpm_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_mus_CyberCity_4_4_134bpm_lp",
+      "GUID": "{9726C731-36A0-471C-981B-4D096DAA7D42}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{579555E3-34E2-1C57-8CAD-271419C6799E}"
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1704328946",
+    "Type": "Event",
+    "GUID": "{0A47C431-3561-446E-A4E7-52DF605F33FA}",
+    "Language": "SFX",
+    "Hash": "{8CD04EB4-F643-4818-1630-C4AB57856AF4}",
+    "ObjectPath": "Play_sfx_pickup",
+    "ShortName": "Play_sfx_pickup",
+    "Path": "Event/Play_sfx_pickup.bnk",
+    "Media": [
+     {
+      "Id": "64407866",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 04_AKB00M_Doors SciFi.wav",
+      "Path": "Media/64407866.wem",
+      "CachePath": "FB/{FB81152B-C9A3-5D03-E204-10A361AA4560}.wem"
+     },
+     {
+      "Id": "92349118",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 03_AKB00M_Doors SciFi.wav",
+      "Path": "Media/92349118.wem",
+      "CachePath": "11/{113A233D-B6D2-3479-1136-97A681D120B8}.wem"
+     },
+     {
+      "Id": "140661917",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 05_AKB00M_Doors SciFi.wav",
+      "Path": "Media/140661917.wem",
+      "CachePath": "F4/{F4866381-0823-EEA3-9741-BDC5E94774F3}.wem"
+     },
+     {
+      "Id": "273930052",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 02_AKB00M_Doors SciFi.wav",
+      "Path": "Media/273930052.wem",
+      "CachePath": "27/{27743966-878C-20BC-ECDF-2A09D53E92AA}.wem"
+     },
+     {
+      "Id": "391949253",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 01_AKB00M_Doors SciFi.wav",
+      "Path": "Media/391949253.wem",
+      "CachePath": "41/{4137BA36-4DD9-1EAE-ADD0-99C00B69DD57}.wem"
+     },
+     {
+      "Id": "901737657",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UIBeep_Mechanics-Interface Beep Medium 06_AKB00M_Doors SciFi.wav",
+      "Path": "Media/901737657.wem",
+      "CachePath": "C5/{C500FA28-58A5-F389-6EB6-8188ED4B2941}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1704328946",
+      "Name": "Play_sfx_pickup",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_sfx_pickup",
+      "GUID": "{0A47C431-3561-446E-A4E7-52DF605F33FA}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.203125",
+      "DurationMax": "0.39715624",
+      "MediaRefs": [
+       {
+        "Id": "64407866"
+       },
+       {
+        "Id": "92349118"
+       },
+       {
+        "Id": "140661917"
+       },
+       {
+        "Id": "273930052"
+       },
+       {
+        "Id": "391949253"
+       },
+       {
+        "Id": "901737657"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{21FEFD3F-BD58-2027-798B-2CDAE6BEA692}"
+ }
+}
